@@ -1,2 +1,2 @@
-# Lab5
-DIG3480, Lab 5, Micallef
+# JSPlatformer
+JS Platformer for DIG 3480C
